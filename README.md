@@ -1,3 +1,3 @@
-#[WIP] More coming soon
+# [WIP] More coming soon
 
 [bertell.fi](https://bertell.fi/)
